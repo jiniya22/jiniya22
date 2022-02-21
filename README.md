@@ -1,6 +1,7 @@
 
 
 <h3 align="center">Hi, I'm jini 😉</h3>
+<br>
 
 <h4 align="center">Contact 📞</h4>
 <p align="center">
@@ -17,11 +18,15 @@
   <img src="https://img.shields.io/badge/HTML5-007396.svg?style=for-the-badge&color=E34F26&logo=HTML5&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Bootstrap-007396.svg?style=for-the-badge&color=7952B3&logo=Bootstrap&logoColor=fff"/>
   <img src="https://img.shields.io/badge/jQuery-007396.svg?style=for-the-badge&color=0769AD&logo=jQuery&logoColor=fff"/>
-  <br>
+  <img src="https://img.shields.io/badge/Vue.js-007396.svg?style=for-the-badge&color=4FC08D&logo=Vue.js&logoColor=fff"/>
+  <br><br>
   <img src="https://img.shields.io/badge/MariaDB-007396.svg?style=for-the-badge&color=003545&logo=MariaDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-007396.svg?style=for-the-badge&message=MySQL&color=4479A1&logo=mysql&logoColor=white"/><br>
 
   <img src="https://img.shields.io/badge/CentOS%207-007396.svg?style=for-the-badge&color=262577&logo=CentOS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS EC2%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Naver%20Cloud-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/><br>
+  
   <img src="https://img.shields.io/badge/Apache-C71A36.svg?style=for-the-badge&color=D22128&logo=Apache"/>
   <img src="https://img.shields.io/badge/Apache%20Tomcat-C71A36.svg?style=for-the-badge&color=F8DC75&logo=Apache-Tomcat&logoColor=000"/>
   <img src="https://img.shields.io/badge/Jenkins-007396.svg?style=for-the-badge&message=Jenkins&color=D24939&logo=jenkins&logoColor=white"/>
