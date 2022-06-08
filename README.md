@@ -37,6 +37,9 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiniya22&layout=compact&theme=dracula" alt="Top langs">
+</p>
+<p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=jiniya22&show_icons=true&theme=aura_dark" alt="jini's GitHub stats">
 </p>
 
