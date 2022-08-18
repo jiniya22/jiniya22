@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/Apache%202.4.48-D22128.svg?style=for-the-badge&logo=Apache"/>
   <img src="https://img.shields.io/badge/Apache%20Tomcat-C71A36.svg?style=for-the-badge&color=F8DC75&logo=Apache-Tomcat&logoColor=000"/>
   <img src="https://img.shields.io/badge/Jenkins-007396.svg?style=for-the-badge&message=Jenkins&color=D24939&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Valut-000000.svg?style=for-the-badge&color=000000&logo=Vault&logoColor=white"/>
   <br><br>
 </p>
 
