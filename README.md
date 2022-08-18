@@ -23,18 +23,21 @@
   <img src="https://img.shields.io/badge/Vue.js-007396.svg?style=for-the-badge&color=4FC08D&logo=Vue.js&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Scss-007396.svg?style=for-the-badge&color=CC6699&logo=Sass&logoColor=white"/>
   <br><br>
-  <img src="https://img.shields.io/badge/Maria%20DB%2010.6-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL%20-4479A1.svg?style=for-the-badge&message=MySQL&logo=mysql&logoColor=white"/><br>
-
-  <img src="https://img.shields.io/badge/CentOS%207-007396.svg?style=for-the-badge&color=262577&logo=CentOS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS EC2%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Naver%20Cloud-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"/><br>
   
+  <img src="https://img.shields.io/badge/Maria%20DB%2010.6-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL%20-4479A1.svg?style=for-the-badge&message=MySQL&logo=mysql&logoColor=white"/><br>  
   <img src="https://img.shields.io/badge/Apache%202.4.48-D22128.svg?style=for-the-badge&logo=Apache"/>
   <img src="https://img.shields.io/badge/Apache%20Tomcat-C71A36.svg?style=for-the-badge&color=F8DC75&logo=Apache-Tomcat&logoColor=000"/>
   <img src="https://img.shields.io/badge/Jenkins-007396.svg?style=for-the-badge&message=Jenkins&color=D24939&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vault-000000.svg?style=for-the-badge&color=000000&logo=Vault&logoColor=white"/>
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/CentOS%207-007396.svg?style=for-the-badge&color=262577&logo=CentOS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle%20Linux%208.5-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=000"/><br>
+  
+  <img src="https://img.shields.io/badge/AWS EC2%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Naver%20Cloud-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"/>
   <br><br>
 </p>
 
