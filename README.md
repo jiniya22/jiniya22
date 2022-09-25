@@ -12,6 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot%202-6DB33F.svg?style=for-the-badge&message=Spring%20Boot&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&color=7F52FF&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python%203-3776AB.svg?style=for-the-badge&logo=Python&logoColor=fff"/><br>
   
   <img src="https://img.shields.io/badge/HTML5-007396.svg?style=for-the-badge&color=E34F26&logo=HTML5&logoColor=fff"/>
