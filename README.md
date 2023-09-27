@@ -11,21 +11,21 @@
 <h4 align="center">Tech Stacks 💻</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot%202-6DB33F.svg?style=for-the-badge&message=Spring%20Boot&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&message=Spring%20Boot&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&color=7F52FF&logo=Kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python%203-3776AB.svg?style=for-the-badge&logo=Python&logoColor=fff"/><br>
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=fff"/><br>
   
-  <img src="https://img.shields.io/badge/HTML5-007396.svg?style=for-the-badge&color=E34F26&logo=HTML5&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=HTML5&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/HTML-007396.svg?style=for-the-badge&color=E34F26&logo=HTML5&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=HTML5&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Java%20Script-007396.svg?style=for-the-badge&color=F7DF1E&logo=JavaScript&logoColor=000"/><br>
   
-  <img src="https://img.shields.io/badge/Bootstrap%205-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=fff"/>
   <img src="https://img.shields.io/badge/jQuery-007396.svg?style=for-the-badge&color=0769AD&logo=jQuery&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Vue.js-007396.svg?style=for-the-badge&color=4FC08D&logo=Vue.js&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Scss-007396.svg?style=for-the-badge&color=CC6699&logo=Sass&logoColor=white"/>
   <br><br>
   
-  <img src="https://img.shields.io/badge/Maria%20DB%2010.6-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maria%20DB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL%20-4479A1.svg?style=for-the-badge&message=MySQL&logo=mysql&logoColor=white"/><br>  
   <img src="https://img.shields.io/badge/Apache%202.4.48-D22128.svg?style=for-the-badge&logo=Apache"/>
   <img src="https://img.shields.io/badge/Apache%20Tomcat-C71A36.svg?style=for-the-badge&color=F8DC75&logo=Apache-Tomcat&logoColor=000"/>
